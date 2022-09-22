@@ -1,0 +1,17 @@
+
+ .footer{
+    display:flex;
+    justify-content:space-between; 
+    background-color:rgb(77, 75, 75) ;
+    color: white;
+ }
+ .izquierda{
+    align-items:flex-start;
+ }
+
+
+.derecha{
+
+    align-content:flex-end;
+
+}
