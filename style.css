@@ -7,11 +7,12 @@
  }
  .izquierda{
     align-items:flex-start;
+    margin-left: 10px;
  }
 
 
 .derecha{
-
+    margin-right: 10px ;
     align-content:flex-end;
 
 }
