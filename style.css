@@ -16,13 +16,13 @@
     align-content:flex-end;
 
 }
-.navbar {
+.navbar-self {
     background-color: rgb(0, 0, 0);
     overflow: hidden;
     border-radius: 8px;
     border-bottom: 3px solid rgb(0, 56, 49);
 }
-.navbar a {
+.navbar-self a {
     color: rgb(238, 238, 238);
     float: left;
     text-align: center;
@@ -31,7 +31,20 @@
     font-size: 1.2em;
     font-family:cursive;
 }
-.navbar a:hover {
+.navbar-self a:hover {
     background-color: rgb(0, 77, 66);
     color: rgb(180, 255, 244);
+}
+#focus {
+    background-color: rgb(0, 70, 61);
+    color: rgb(180, 255, 244);
+}
+h1 {
+    color:rgb(0, 163, 139);
+    margin-left: 1em;
+}
+iframe {
+    height: 30em;
+    width: 90%;
+    margin: 0% 5% 0% 5%;
 }
