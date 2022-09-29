@@ -3150,3 +3150,6 @@
   -webkit-animation-name: slideOutUp;
           animation-name: slideOutUp;
 }
+.navbar-animate:hover {
+  background-color: #26ba2b;
+}
