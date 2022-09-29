@@ -1,16 +1,16 @@
-
- .footer{
+body {
+    background-color: black;
+}
+.footer{
     display:flex;
     justify-content:space-between; 
-    background-color:rgb(77, 75, 75) ;
+    background-color:rgb(65, 65, 65) ;
     color: white;
- }
- .izquierda{
+}
+.izquierda{
     align-items:flex-start;
     margin-left: 10px;
- }
-
-
+}
 .derecha{
     margin-right: 10px ;
     align-content:flex-end;
@@ -20,10 +20,10 @@
     background-color: rgb(0, 0, 0);
     overflow: hidden;
     border-radius: 8px;
-    border-bottom: 3px solid rgb(0, 56, 49);
+    border-bottom: 3px solid rgb(0, 148, 126);
 }
 .navbar-self a {
-    color: rgb(238, 238, 238);
+    color: rgb(0, 148, 126);
     float: left;
     text-align: center;
     padding: 14px 16px;
@@ -32,15 +32,15 @@
     font-family:cursive;
 }
 .navbar-self a:hover {
-    background-color: rgb(0, 77, 66);
-    color: rgb(180, 255, 244);
+    background-color: rgb(0, 148, 126);
+    color: rgb(0, 148, 126);
 }
 #focus {
-    background-color: rgb(0, 70, 61);
-    color: rgb(180, 255, 244);
+    background-color: rgb(0, 107, 5);
+    color: rgb(0, 148, 126);
 }
 h1 {
-    color:rgb(0, 163, 139);
+    color:rgb(0, 148, 126);
     margin-left: 1em;
 }
 iframe {
@@ -48,3 +48,4 @@ iframe {
     width: 90%;
     margin: 0% 5% 0% 5%;
 }
+
