@@ -229,7 +229,7 @@ body {
 
 .main-green-button a {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: #080A0C;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -270,7 +270,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #33ccc5;
+  color: #080A0C;
 }
 
 .background-header .nav li a.active {
@@ -282,7 +282,7 @@ header
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: #4771cb;
+  background-color: #7328B8;
   content: '';
   left: 50%;
   bottom: 0px;
@@ -602,7 +602,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #33ccc5;
+  color: #080A0C;
 }
 
 @media (max-width: 1200px) {
@@ -642,7 +642,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #33ccc5;
+    background-color: #080A0C;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -810,7 +810,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #33ccc5;
+    background: #080A0C;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -1467,8 +1467,8 @@ Portfolio
 }
 
 .our-portfolio .owl-nav span:hover {
-  color: #33ccc5;
-  border-color: #33ccc5;
+  color: #080A0C;
+  border-color: #080A0C;
 }
 
 
@@ -1594,7 +1594,7 @@ form#contact button {
 form#contact button:hover {
   background-color: #4771cb!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid #080A0C!important;
 }
 
 /* 
