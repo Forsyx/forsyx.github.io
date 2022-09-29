@@ -262,6 +262,14 @@ header
   left: 0px;
   right: 0px;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
+
+}
+
+.background-header .logo img  {
+  
+ filter: grayscale(100%);
+ filter: brightness(0.20)
+
 }
 
 .background-header .logo,
@@ -287,6 +295,7 @@ header
   left: 50%;
   bottom: 0px;
   transform: translateX(-10px);
+
 }
 
 .header-area {
