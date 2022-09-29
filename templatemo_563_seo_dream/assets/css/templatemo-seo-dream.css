@@ -908,7 +908,6 @@ Banner Style
 }
 
 .main-banner .left-content h2 {
-  border-top: 1px solid #eee;
   margin-top: 30px;
   padding-top: 20px;
   margin-bottom: 45px;
@@ -917,9 +916,9 @@ Banner Style
   color: #2a2a2a;
   line-height: 72px;
   background: #FA9D4D;
-  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
+  background: -webkit-linear-gradient(to right, #8d4200 0%, #614fff 100%);
+  background: -moz-linear-gradient(to right, #4d58fa 0%, #4fe5ff 100%);
+  background: linear-gradient(to right, #b890e0  0%,#b890b8 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
