@@ -262,9 +262,18 @@ header
   left: 0px;
   right: 0px;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.15)!important;
-
 }
-
+.background-header .navbar-animate:hover {
+  animation: navbarHoverOtherway 0.8s ease 0.1s 1 normal forwards;
+}
+@keyframes navbarHoverOtherway {
+  0% {
+    background-color: #26ba2b;
+  }
+  100% {
+    background-color: #080A0C;
+  }
+}
 .background-header .logo img  {
   
  filter: grayscale(100%);
