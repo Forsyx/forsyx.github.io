@@ -350,7 +350,7 @@ header
   max-width: 30px;
   margin-top: -20px;
   margin-left: 5px;
-  margin-right: -10px;
+  margin-right: -9px;
 }
 
 .background-header .main-nav .logo h4 {
@@ -383,12 +383,6 @@ header
 .background-header .main-nav .nav li:last-child a {
   font-weight: 400;
 }
-
-.header-area .main-nav .nav li:last-child a:hover ,
-.background-header .main-nav .nav li:last-child a:hover {
-  color: #4771cb !important;
-}
-
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 500;
