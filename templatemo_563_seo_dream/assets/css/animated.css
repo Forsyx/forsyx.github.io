@@ -3151,5 +3151,13 @@
           animation-name: slideOutUp;
 }
 .navbar-animate:hover {
-  background-color: #26ba2b;
+  animation: navbarHover 0.8s ease 0.1s 1 normal forwards;
+}
+@keyframes navbarHover {
+  0% {
+    background-color: #080a0c;
+  }
+  100% {
+    background-color: #26ba2b;
+  }
 }
