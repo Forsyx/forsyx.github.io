@@ -1734,4 +1734,9 @@ responsive
   form#contact {
     padding: 30px;
   }
+
+  .owl-item .active .center{
+    width:30px;
+    height:30px;
+  }
 }
