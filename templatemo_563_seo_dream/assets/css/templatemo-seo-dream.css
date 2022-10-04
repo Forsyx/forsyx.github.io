@@ -350,6 +350,7 @@ header
   max-width: 30px;
   margin-top: -20px;
   margin-left: 5px;
+  margin-right: -10px;
 }
 
 .background-header .main-nav .logo h4 {
@@ -378,14 +379,8 @@ header
   padding-right: 20px;
 }
 
-.header-area .main-nav .nav li:last-child {
-  padding-right: 0px;
-  padding-left: 40px;
-}
-
 .header-area .main-nav .nav li:last-child a ,
 .background-header .main-nav .nav li:last-child a {
-  padding: 0px 20px;
   font-weight: 400;
 }
 
@@ -1648,9 +1643,6 @@ responsive
     max-width: 25px;
     margin-left: 0px;
   }
-  .header-area .main-nav .nav li:last-child {
-    padding-left: 20px;
-  }
 }
 
 @media (max-width: 992px) {
@@ -1743,4 +1735,7 @@ responsive
   form#contact {
     padding: 30px;
   }
+}
+.separador-navbar {
+  width: 20px;
 }
