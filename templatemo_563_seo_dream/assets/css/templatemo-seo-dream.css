@@ -182,7 +182,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #33ccc5;
+  color: #B890E0;
   text-transform: uppercase;
   margin-bottom: 15px;
 
@@ -200,11 +200,11 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #33ccc5;
+  color: #7328b8;
 }
 
 .section-heading h2 span {
-  color: #088ec3;
+  color: #26ba2b;
 }
 
 .main-blue-button a {
