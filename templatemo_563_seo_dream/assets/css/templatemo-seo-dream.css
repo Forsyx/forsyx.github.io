@@ -229,7 +229,7 @@ body {
 
 .main-green-button a {
   display: inline-block;
-  background-color: #080A0C;
+  background-color: #7328b8;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -237,7 +237,7 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #26ba2b!important;
   transition: all .3s;
 }
 
@@ -246,6 +246,7 @@ body {
   color: #fff!important;
   border-bottom: 2px solid #33ccc5!important;
 }
+
 
 
 /* 
@@ -1300,10 +1301,22 @@ About Us Style
   margin-right: 45px;
 }
 
-.about-us .about-item h4 {
+.about-us .about-item-1 h4 {
   font-size:38px;
   font-weight: 800;
-  color:#088ec3;
+  color:#B890E0;
+}
+
+.about-us .about-item-2 h4 {
+  font-size:38px;
+  font-weight: 800;
+  color:#26ba2b;
+}
+
+.about-us .about-item-3 h4 {
+  font-size:38px;
+  font-weight: 800;
+  color:#7328B8;
 }
 
 .about-us .about-item h6 {
@@ -1582,7 +1595,7 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: #7328b8;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1591,7 +1604,7 @@ form#contact button {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #26ba2b!important;
   transition: all .3s;
   outline: none;
   border: none;
