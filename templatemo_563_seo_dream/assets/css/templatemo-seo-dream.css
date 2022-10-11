@@ -1746,3 +1746,6 @@ responsive
 .separador-navbar {
   width: 20px;
 }
+.card:hover {
+  background-color: #B890E0;
+}
