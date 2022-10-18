@@ -985,8 +985,9 @@ Features Style
 }
 
 .second-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
+  background-image: url(../images/lamparita.png);
 }
+
 
 .features-item .number h6 {
   background-repeat: no-repeat;
@@ -1024,7 +1025,7 @@ Features Style
 }
 
 .second-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/lamparita.png);
 }
 
 .features-item .icon {
@@ -1158,17 +1159,17 @@ Features Style
 /* This for loop creates the  necessary css animation names 
 Due to the split circle of progress-left and progress right, we must use the animations on each side. 
 */
-.progress[data-percentage="10"] .progress-right .progress-bar {
+.progress[data-percentage="5"] .progress-right .progress-bar {
   animation: loading-1 1.5s linear forwards;
 }
-.progress[data-percentage="10"] .progress-left .progress-bar {
+.progress[data-percentage="5"] .progress-left .progress-bar {
   animation: 0;
 }
 
-.progress[data-percentage="20"] .progress-right .progress-bar {
+.progress[data-percentage="55"] .progress-right .progress-bar {
   animation: loading-2 1.5s linear forwards;
 }
-.progress[data-percentage="20"] .progress-left .progress-bar {
+.progress[data-percentage="55"] .progress-left .progress-bar {
   animation: 0;
 }
 
@@ -1234,8 +1235,8 @@ Due to the split circle of progress-left and progress right, we must use the ani
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(36);
-    transform: rotate(36deg);
+    -webkit-transform: rotate(18);
+    transform: rotate(18deg);
   }
 }
 @keyframes loading-2 {
@@ -1244,8 +1245,8 @@ Due to the split circle of progress-left and progress right, we must use the ani
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(72);
-    transform: rotate(72deg);
+    -webkit-transform: rotate(55);
+    transform: rotate(55deg);
   }
 }
 @keyframes loading-3 {
