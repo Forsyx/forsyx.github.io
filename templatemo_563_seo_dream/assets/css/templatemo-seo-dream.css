@@ -985,6 +985,14 @@ Features Style
 }
 
 .second-feature:hover .icon {
+  background-image: url(../images/flechass.png);
+}
+
+.third-feature:hover .icon {
+  background-image: url(../images/cerebroo.png);
+}
+
+.fourth-feature:hover .icon {
   background-image: url(../images/laamparitaa.png);
 }
 
@@ -1028,7 +1036,7 @@ Features Style
   background-image: url(../images/flechass.png);
 }
 
-.third-feature.icon {
+.third-feature .icon {
   background-image: url(../images/cerebroo.png);
 }
 
