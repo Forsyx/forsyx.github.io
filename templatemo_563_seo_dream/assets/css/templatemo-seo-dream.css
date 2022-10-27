@@ -981,11 +981,11 @@ Features Style
 }
 
 .first-feature:hover .icon {
-  background-image: url(../images/features-icon-white-01.png);
+  background-image: url(../images/capacitacion.png);
 }
 
 .second-feature:hover .icon {
-  background-image: url(../images/flechass.png);
+  background-image: url(../images/oportunidades.png);
 }
 
 .third-feature:hover .icon {
@@ -1029,11 +1029,11 @@ Features Style
 }
 
 .first-feature .icon {
-  background-image: url(../images/features-icon-black-01.png);
+  background-image: url(../images/capacitacion.png);
 }
 
 .second-feature .icon {
-  background-image: url(../images/flechass.png);
+  background-image: url(../images/oportunidades.png);
 }
 
 .third-feature .icon {
